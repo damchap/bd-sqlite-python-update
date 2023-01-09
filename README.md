@@ -1,7 +1,3 @@
-
-logiciel python pour update une bdd sqlite via un fichier txt
-
-
 <h1 align='center'>📘 bd-sqlite-python-update</h1>
 
 <p align="center">
